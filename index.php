@@ -10,6 +10,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet"> 
     <!-- FONT AWESOME -->
     <script src="https://kit.fontawesome.com/bec20da42d.js" crossorigin="anonymous"></script>
     <!-- STYLE PERSO -->
@@ -104,13 +108,11 @@
 
                 <div class="col-md-6 pt-3 pr-0">
                     <h2>A propos de nous</h2>
-                    <p>Orientis vero limes in longum protentus et rectum ab Euphratis fluminis ripis ad usque supercilia
-                        porrigitur Nili,
-                        laeva Saracenis conterminans gentibus, dextra pelagi fragoribus patens, quam plagam Nicator
-                        Seleucus occupatam auxit magnum in modum,
-                        cum post Alexandri Macedonis obitum successorio iure teneret regna Persidis, efficaciae
-                        inpetrabilis rex, ut indicat cognomentum.</p>
-                    <button type="button" class="btn btn-danger">En lire plus</button>
+                    <p>Kyoju  propose une formation complète (écrite et orale) grâce à des méthodes didactiques modernes et communicatives.
+                    Chez Kyoju, vous apprenez le japonais en petits groupes de 5 à 15 participants maximum. Cette formule permet d’optimiser l’apprentissage et la pratique de la langue.
+                    Tous nos professeurs sont qualifiés et aussi des locuteurs natifs expérimentés ayant reçu une formation dans le domaine de la formation et de l’enseignement du japonais.
+                    </p>
+                    <button type="button" class="btn btn-danger">En savoir plus</button>
                 </div>
             </div>
         </section>
@@ -128,9 +130,8 @@
                 <div class="col-md-4 d-flex justify-content-center ">
                     <div class="text-center">
                         <img src="images/graduation-hat.png" class="img-fluid" alt="">
-                        <p>Apprentissage</p>
-                        <p>Conlaticia suspicionum suis imperio stipe quidam stipe voluntatem suis praeter quoque quod civili
-                            sibi clarae.</p>
+                        <p>Des cours complets</p>
+                        <p>Des leçons courtes idéales pour s'adapter au quotidien, au travail et aux voyages.</p>
                     </div>
                 </div>
 
@@ -138,8 +139,7 @@
                     <div class="text-center">
                         <img src="images/line-graphic-on-monitor-screen.png" class="img-fluid" alt="">
                         <p>En ligne</p>
-                        <p>Ita poenales sub adventu susurro plures adventu carnifex susurro facile facile cruore atque haec
-                            quemquam.</p>
+                        <p>Apprends n’importe où, n’importe quand avec plus de 500 vidéos à disposition.</p>
                     </div>
                 </div>
 
@@ -147,8 +147,7 @@
                     <div class="text-center">
                         <img src="images/workshop.png" class="img-fluid" alt="">
                         <p>Ateliers</p>
-                        <p>Tuetur nocte adposita sed celeritate superatis circumfusus semitas arduis flexuosas
-                            difficultatibus vastare collium et igitur.</p>
+                        <p>Participe à des ateliers deux fois par semaine pour mettre en pratique ton japonais et progresser plus vite!</p>
                     </div>
                 </div>
 

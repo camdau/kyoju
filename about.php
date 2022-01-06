@@ -10,9 +10,12 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
-
   <!--FLICKITY-->
   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet"> 
   <!-- FONT AWESOME -->
   <script src="https://kit.fontawesome.com/bec20da42d.js" crossorigin="anonymous"></script>
   <!-- STYLE PERSO -->
@@ -59,9 +62,7 @@
       <div class="col-md-6 d-flex flex-column justify-content-center ml-5 pt-5 titre-mobile">
 
         <h1>Des enseignants qualifiés et des ateliers réguliers</h1>
-        <p>Exterarum bellorum vero lustratae conferri libenter gentium nec magnitudine omnis regionum conficiendi
-          ante
-          omnis vero victoriis dissimilitudine res omnis gentium.</p>
+        <p>Vous disposez d'une équipe de professionnels à votre écoute et bienveillants, au moins une fois par semaine. En plus, Kyoju organise des ateliers au moins deux fois par semaine pour accélerer votre apprentissage.</p>
       </div>
     </div>
 
@@ -82,8 +83,8 @@
           <img class="red-dot img-fluid" src="images/dot.png" alt="">
         </div>
         <div class="paragraphe-mobile">
-          <h5>Fit quos metuat cum amicos</h5>
-          <p class="lh-24">Ad Simonides reputantium coetuum reputantium ut alia sunt paucorum non.</p>
+          <h5>Un enseignant référent</h5>
+          <p class="lh-24">Il est présent pour répondre aux questions, vous aider dans votre projet et à adapter notre programme à vos besoins. </p>
         </div>
 
       </div>
@@ -92,11 +93,11 @@
 
       <div class="row how col-md-12 col-sm-2 justify-content-center ">
         <div>
-          <img class="red-dot img-fluid" src="images/dot.png" alt="">
+          <img class="red-dot2 img-fluid" src="images/dot.png" alt="">
         </div>
         <div class="paragraphe-mobile">
-          <h5>Fit quos metuat cum amicos</h5>
-          <p class="lh-24">Ad Simonides reputantium coetuum reputantium ut alia sunt paucorum non.</p>
+          <h5>Des cours en ligne en illimités</h5>
+          <p class="lh-24">Vous pouvez visionner les vidéos, autant de fois que vous voulez et où vous voulez. </p>
         </div>
 
       </div>
@@ -104,11 +105,11 @@
 
       <div class="row how col-md-12 col-sm-2 justify-content-center ">
         <div>
-          <img class="red-dot img-fluid" src="images/dot.png" alt="">
+          <img class="red-dot3 img-fluid" src="images/dot.png" alt="">
         </div>
         <div class="paragraphe-mobile">
-          <h5>Fit quos metuat cum amicos</h5>
-          <p class="lh-24">Ad Simonides reputantium coetuum reputantium ut alia sunt paucorum non.</p>
+          <h5>Des ateliers réguliers </h5>
+          <p class="lh-24">Lors des ateliers, vous pouvez mettre en pratique votre japonais et ainsi, progresser plus vite. </p>
         </div>
 
       </div>
@@ -117,11 +118,11 @@
 
       <div class="row how col-md-12 col-sm-2 justify-content-center ">
         <div>
-          <img class="red-dot img-fluid" src="images/dot.png" alt="">
+          <img class="red-dot4 img-fluid" src="images/dot.png" alt="">
         </div>
         <div class="paragraphe-mobile">
-          <h5>Fit quos metuat cum amicos</h5>
-          <p class="lh-24">Ad Simonides reputantium coetuum reputantium ut alia sunt paucorum non.</p>
+          <h5>Un réseau de soutien</h5>
+          <p class="lh-24">D'autres étudiants de votre région avec qui travailler, fournissent un réseau de soutien et se joignent à vous pour des événements locaux.</p>
         </div>
 
       </div>

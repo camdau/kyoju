@@ -1,4 +1,10 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
 
+h1,h2,h5,a.nav-link{
+font-family: 'Montserrat', sans-serif;
+}
 
 .row {
 margin-right:0px;
@@ -155,6 +161,28 @@ background-repeat: no-repeat;
 width: 46px;
 height: 46px;
 margin-right: 30px;
+margin-left:222px;
+}
+
+.red-dot2 {
+width: 46px;
+height: 46px;
+margin-right: 30px;
+margin-left:-32px;
+}
+
+.red-dot3 {
+width: 46px;
+height: 46px;
+margin-right: 30px;
+margin-left:42px;
+}
+
+.red-dot4 {
+width: 46px;
+height: 46px;
+margin-right: 30px;
+margin-left:371px;
 }
 
 h2{text-align:center;
@@ -283,6 +311,14 @@ padding-top:200px;
 color:#fff;
 }
 
+.fz-50{font-size: 50px;
+font-weight: bold;
+}
+
+.fz-20{
+font-size: 20px;
+font-weight: bold;  
+}
 
 #testimonials{
 width:100%;

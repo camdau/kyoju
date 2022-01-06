@@ -17,8 +17,8 @@
             </div>
 
 
-            <div class="col-md-3 col-sm-12 d-flex justify-content-center align-items-center pt-3">
-                <div class="fz-white">
+            <div class="col-md-3 col-sm-12 d-flex justify-content-center align-items-center pt-3 follow-mobile">
+                <div class="fz-white ">
                     <h6>Suivez-nous!</h6>
                     <p><i class="fab fa-facebook-f"></i> Facebook</p>
                     <p><i class="fab fa-twitter"></i> Twitter</p>
@@ -27,7 +27,7 @@
                 </div>
             </div>
 
-            <div class="col-md-3 col-sm-12 d-flex justify-content-center align-items-center p-0 pt-3">
+            <div class="col-md-3 col-sm-12 d-flex justify-content-center align-items-center p-0 pt-3 plan-mobile">
                 <div class="fz-white">
                     <h6> <?php echo "<a class=\"fz-white\" href=\"index.php\">Accueil</a>"; ?>
                     </h6>
