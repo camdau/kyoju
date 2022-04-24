@@ -35,6 +35,7 @@
     .etudiants{
     padding-left:0px;
     padding-top:20px;
+    margin-left:7px;
     }
 
     
@@ -102,26 +103,26 @@
     .red-dot {
         width: 46px;
         height: 46px;
-        margin-right: 5px;
-        margin-left:0px;
+        margin-right:0px;
+        margin-left:14px;
         }
     .red-dot2 {
         width: 46px;
         height: 46px;
-        margin-right: 5px;
-        margin-left:0px;
+        margin-right: 0px;
+        margin-left:14px;
         }
     .red-dot3 {
         width: 46px;
         height: 46px;
-        margin-right: 5px;
-        margin-left:0px;
+        margin-right:0px;
+        margin-left:14px;
         }
     .red-dot4 {
         width: 46px;
         height: 46px;
-        margin-right: 5px;
-        margin-left:0px;
+        margin-right:0px;
+        margin-left:14px;
         }       
 
     .paragraphe-mobile{width:300px;
