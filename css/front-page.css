@@ -1,0 +1,13 @@
+/* HEADER */
+header{width:100%;
+    height:900px;
+    background:url('../images/japan.jpg') no-repeat 0 0;
+    position: relative;
+    }
+    
+.btn-learn{position:absolute;
+top:83%;
+left:45%;
+background-color:#D00424;
+padding: 10px 50px 10px 50px;
+}
